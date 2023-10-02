@@ -199,6 +199,7 @@ device_chroot_tweaks_pre() {
 		[wm8960]="https://raw.githubusercontent.com/hftsai256/wm8960-rpi-modules/main/wm8960-modules-rpi-${KERNEL_VERSION}.tar.gz"
 		[brcmfmac43430b0]="https://raw.githubusercontent.com/volumio/volumio3-os-static-assets/master/firmwares/brcmfmac43430b0/brcmfmac43430b0.tar.gz"
 		[PiCustom]="https://raw.githubusercontent.com/Darmur/volumio-rpi-custom/main/output/modules-rpi-${KERNEL_VERSION}-custom.tar.gz"
+		[interludeaudio]="https://raw.githubusercontent.com/BlueRockSoftware/rpi-kernel-modules/main/archive/modules-rpi-5.10.92-interludeaudio.tar.gz"
 	)
 
 	### Kernel installation
